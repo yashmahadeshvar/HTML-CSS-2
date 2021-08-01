@@ -1,0 +1,45 @@
+h1{
+    color:rgb(0, 0, 0);
+}
+p{
+    color:rgb(0, 0, 0);
+}
+ul{
+    color:rgb(0, 60, 255);
+}       
+.topic{
+    background-color:rgb(0, 255, 221);
+    display:flex;
+    justify-content : space-between;
+}
+.camel{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-between; 
+}
+.chameleon{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-between; 
+}
+.pegion{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-between; 
+}
+.panda{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-between; 
+}
+.teddybear{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-between; 
+}
+.cicada{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-between; 
+}
+
